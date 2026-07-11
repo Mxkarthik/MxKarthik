@@ -76,14 +76,6 @@ Backend Developer | MERN Stack Developer | Building Scalable Web Applications
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mxkarthik&show_icons=true&locale=en&layout=compact" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mxkarthik&show_icons=true&locale=en" />
-</p>
-
-<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mxkarthik" />
 </p>
 
