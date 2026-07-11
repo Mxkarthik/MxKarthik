@@ -80,5 +80,3 @@ Backend Developer | MERN Stack Developer | Building Scalable Web Applications
 </p>
 
 ---
-
-## ⭐ Featured Skills
